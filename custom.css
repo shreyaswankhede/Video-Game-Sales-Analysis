@@ -1,0 +1,44 @@
+#headerDiv{
+padding-left:5px;
+padding-left:10px;
+padding-bottom:6px;
+font-size:20px;
+font-weight:bold;
+font-family:helvetica;
+}
+.left-side, .main-sidebar{
+
+padding-top:15px;
+}
+.nav-tabs-custom>.tab-content{
+min-height:600px;
+padding:20px;	
+}
+.wrapper{
+min-height:600px;
+}
+
+.nav-tabs {
+background: #f4f4f4;
+}
+.nav-tabs-custom .nav-tabs li.active:hover a, .nav-tabs custom .nav-tabs li.active a {
+	background-color: #fff;
+    border-color: #fff;                                                      
+}
+.nav-tabs-custom .nav-tabs li.active {
+	border-top-color: #314a6d;
+ }
+ 
+#bestSellingGame, #WorstSellingGame ,#bestSellingPublisher ,#WorstSellingPublisher,#bestSellingGenre,#WorstSellingGenre{
+width:50%;	
+
+}
+#overviewdiv{
+font-size:20px;
+font-weight:bold;
+font-family:helvetica;
+padding-bottom:50px;
+margin-left:10px;
+width:90%;
+text-align:center;
+}
